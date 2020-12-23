@@ -1,0 +1,30 @@
+.img{
+	max-width: 100%;
+	height: auto;
+}
+/*.inline_block{
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	line-height: normal;
+}*/
+/*.inline_block{*/
+	/*position: relative;*/
+	
+	/*width: 75%;*/
+	/*height: 100%;*/
+	/*text-align: center;*/
+	/*line-height: normal;*/
+/*}*/
+
+.line_block{
+	/*display: inline-block;*/
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 0 15px 15px 0;
+	text-align: center;
+	padding: 10px;
+	/*line-height: normal;*/
+}
