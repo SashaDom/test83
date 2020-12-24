@@ -1161,12 +1161,12 @@ p {
      width: 96%!important; 
 }
 .image{
-  padding:0 18%;
+  padding:0 10%;
   /*padding-left: 60px;*/
   padding-bottom: 5px
 }
   .image img {
-    height: 300px;
+    height: 340px;
     width: 200px;
     border-radius: 6px;
     border: 1px solid black;
@@ -1177,7 +1177,7 @@ p {
   height: 100px;
   /*margin-top: 3px;*/
   /*margin: -4px;*/
-  margin: 2px;
+/*   margin: 2px; */
   border:1px solid black;
 }
 
