@@ -46,14 +46,14 @@
 			$("#lightgallery").lightGallery();  
 // ============================================================// =================================================
            // slider
-             $('.sliderSpec').slick({
-				arrows: true,
-				dots: true
+   //           $('.sliderSpec').slick({
+			// 	arrows: true,
+			// 	dots: true
 
-			});
+			// });
 
 
-			$("#lightgallery1").lightGallery();  
+			// $("#lightgallery1").lightGallery();  
 // ============================================================
 			$('.grids').isotope({
 			  // options 
