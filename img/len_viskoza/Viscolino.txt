@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Natural Selection by Ri.Go
 
 art. Viscolino
@@ -7,4 +8,15 @@ art. Viscolino
 
 1400 м/100г (2/28)
 
+=======
+Natural Selection by Ri.Go
+
+art. Viscolino
+
+55% лен
+45% вискоза
+
+1400 м/100г (2/28)
+
+>>>>>>> fc89c0f12d4d8fb5c763d8d7306821402eb688a1
 90,00 грн/100г

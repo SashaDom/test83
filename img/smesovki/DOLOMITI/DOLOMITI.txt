@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FILATURA PAPI FABIO 
 
 art. DOLOMITI
@@ -9,4 +10,17 @@ art. DOLOMITI
 
 1450,00 м/100 г
 
+=======
+FILATURA PAPI FABIO 
+
+art. DOLOMITI
+
+40% меринос
+10% кашемир
+30% вискоза
+20% ПА
+
+1450,00 м/100 г
+
+>>>>>>> fc89c0f12d4d8fb5c763d8d7306821402eb688a1
 75,00 грн/100 г
