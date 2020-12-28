@@ -1192,14 +1192,7 @@ p {
 .arrows{
   display: none;
 }
-.slick-prev {
-    /*left: 10px;*/
-        display: none !important;
-}
-.slick-next {
-    /*right: 10px;*/
-        display: none !important;
-}
+
 .pb-3, .py-3 {
     /*padding-bottom: 12px!important;*/
     padding-bottom: 30px!important;
@@ -1207,7 +1200,23 @@ p {
 .pt-3, .py-3 {
     padding-top: 5px!important;
 }
-
+/*=======================================================*/
+.container {
+    width: 90%;
+    padding-right: 8px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.slick-prev {
+    /*left: 0;*/
+        /*display: none !important;*/
+}
+.slick-next {
+    right: -20px;
+        /*display: none !important;*/
+}
+/*=========================================================*/
 .slick-dots {
     position: absolute;
     /*bottom: 5px;*/
