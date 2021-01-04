@@ -1190,6 +1190,7 @@ p {
 .arrows{
   display: none;
 }
+<<<<<<< HEAD
 /*=======================================================*/
 .container {
     width: 90%;
@@ -1207,6 +1208,9 @@ p {
         /*display: none !important;*/
 }
 /*=========================================================*/
+=======
+
+>>>>>>> 1d600ec82f101d6fe20c0e81dae06cf713fef33a
 .pb-3, .py-3 {
     /*padding-bottom: 12px!important;*/
     padding-bottom: 30px!important;
@@ -1214,7 +1218,27 @@ p {
 .pt-3, .py-3 {
     padding-top: 5px!important;
 }
+<<<<<<< HEAD
 
+=======
+/*=======================================================*/
+.container {
+    width: 90%;
+    padding-right: 8px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.slick-prev {
+    /*left: 0;*/
+        /*display: none !important;*/
+}
+.slick-next {
+    right: -20px;
+        /*display: none !important;*/
+}
+/*=========================================================*/
+>>>>>>> 1d600ec82f101d6fe20c0e81dae06cf713fef33a
 .slick-dots {
     position: absolute;
     /*bottom: 5px;*/
@@ -1226,7 +1250,10 @@ p {
     list-style: none;
     text-align: center;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1d600ec82f101d6fe20c0e81dae06cf713fef33a
 .lg-actions .lg-next {
     display: none;
 }
@@ -1237,7 +1264,7 @@ p {
   
        /*grafic*/  
  .section-grafic {
-    padding: 25px 0;
+    padding: 40px 0;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
