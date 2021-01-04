@@ -1273,7 +1273,14 @@ p {
 .day{
   font-size: 25px;
     padding: 0;
-}    
+}   
+h4 {
+    letter-spacing: 2px;
+    font-size: 17px;
+    margin-bottom: 3px;
+    font-weight: 700;
+    line-height: 20px;
+  } 
 
       /*begin contact*/
 .first-social__item a {
