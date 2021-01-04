@@ -1268,6 +1268,7 @@ p {
     background-repeat: no-repeat;
     color: #fff;
 }
+
 .time{
   padding: 0 40px;
 }   
@@ -1277,7 +1278,7 @@ p {
 }   
 h4 {
     letter-spacing: 2px;
-    font-size: 17px;
+    font-size: 15px;
     margin-bottom: 3px;
     font-weight: 700;
     line-height: 20px;
