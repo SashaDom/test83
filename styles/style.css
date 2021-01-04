@@ -1190,7 +1190,7 @@ p {
 .arrows{
   display: none;
 }
-<<<<<<< HEAD
+
 /*=======================================================*/
 .container {
     width: 90%;
@@ -1208,9 +1208,7 @@ p {
         /*display: none !important;*/
 }
 /*=========================================================*/
-=======
 
->>>>>>> 1d600ec82f101d6fe20c0e81dae06cf713fef33a
 .pb-3, .py-3 {
     /*padding-bottom: 12px!important;*/
     padding-bottom: 30px!important;
@@ -1218,9 +1216,7 @@ p {
 .pt-3, .py-3 {
     padding-top: 5px!important;
 }
-<<<<<<< HEAD
 
-=======
 /*=======================================================*/
 .container {
     width: 90%;
@@ -1238,7 +1234,7 @@ p {
         /*display: none !important;*/
 }
 /*=========================================================*/
->>>>>>> 1d600ec82f101d6fe20c0e81dae06cf713fef33a
+
 .slick-dots {
     position: absolute;
     /*bottom: 5px;*/
@@ -1250,10 +1246,7 @@ p {
     list-style: none;
     text-align: center;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 1d600ec82f101d6fe20c0e81dae06cf713fef33a
 .lg-actions .lg-next {
     display: none;
 }
