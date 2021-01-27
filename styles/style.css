@@ -745,7 +745,9 @@ p {
     display: table-cell;
     line-height: 20px;
      width: max-content;
-     background-color:#E8C300;
+     background-color:#EA29;
+     border-radius: 0 20px 20px 0;
+     /*background-color:#E8C300;*/
      position: relative;
     top: -15px;  
 }
