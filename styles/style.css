@@ -30,6 +30,13 @@ img {
   z-index: 9;
   position: relative;
 }
+/* h1 {
+    font-size: 40px;
+}*/
+ /*h2 {
+    font-size: 30px;
+    font-weight: 600;
+}*/
 h5{
   letter-spacing: 1px;
   font-size: 30px;
@@ -53,6 +60,30 @@ h5{
   text-align: center;
   position: relative;
   overflow: hidden;
+}
+
+
+
+        /*общий section*/
+.section-all {
+  padding-top: 32px;
+  padding-bottom: 26px;
+  position: relative;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff !important;
+  overflow: hidden;
+}
+       /*общий title*/
+.title-name {
+    text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 6px;
+  font-size: 25px;
+  padding-top: 25px;
+  padding-bottom: 0;
 }
 
 /*=========================================================================*/
@@ -86,7 +117,8 @@ h5{
 /* end section palitra*/
 /*=================================================================*/
 /*start section-smesovka */
-.section-smesovka {
+
+/*.section-smesovka {
   padding-top: 32px;
   padding-bottom: 26px;
   position: relative;
@@ -105,11 +137,12 @@ h5{
   padding-top: 25px;
   padding-bottom: 0;
 }
+*/
 /*end smesovki*/
 /*==========================================*/
 /* start section-hlopok*/
 
-.section-hlopok {
+/*.section-hlopok {
   padding-top: 32px;
   padding-bottom: 26px;
   position: relative;
@@ -129,11 +162,12 @@ h5{
  padding-top: 25px;
     padding-bottom: 0;
 }
-
+*/
 /* end section-hlopok*/
 /*============================================================================*/
 /* start section-len_viskoza*/
-.section-len_viskoza {
+
+/*.section-len_viskoza {
   padding-top: 32px;
   padding-bottom: 26px;
   position: relative;
@@ -151,10 +185,12 @@ h5{
   font-size: 25px;
  padding-top: 25px;
     padding-bottom: 0;
-}
+}*/
+
 /* end section-len_viskoz*/
 /*============================================================================*/
 /* start section-pyx_norki*/
+/*
 .section-pyx_norki {
   padding-top: 32px;
   padding-bottom: 26px;
@@ -174,10 +210,42 @@ h5{
   font-size: 25px;
   padding-top: 25px;
   padding-bottom: 0;
-}
+}*/
 
 /* end section-pyx_norki*/
 /*===============================================*/
+/*==========================================*/
+/* start section-hlopok*/
+/*
+.section-merinos {
+  padding-top: 32px;
+  padding-bottom: 26px;
+  position: relative;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff !important;
+  overflow: hidden;
+}
+
+.title-merinos{
+    text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 6px;
+  font-size: 25px;
+ padding-top: 25px;
+    padding-bottom: 0;
+}*/
+
+
+/*.pb-3, .py-3 {
+    padding-bottom: 5px!important;
+}
+.pt-3, .py-3 {
+    padding-top: 15px!important;
+}*/
+
 /*section all pryaza*/
 .container_all_pryaza{
 width: 1140px;
@@ -554,6 +622,7 @@ p {
     position: relative;
     overflow: hidden;
 }
+
 .section-name {
     font-size: 30px;
     font-weight: 700;
@@ -697,6 +766,19 @@ p {
            /*ТЕЛЕФОН*/
 /*========================================================*/
 @media screen and (max-width: 576px){
+  /* h1 {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin: 0;
+    position: relative;
+    padding-top: 7px;
+}*/
+ h2 {
+    font-size: 18px;
+    font-weight: 700;
+}
 .section-first {
     height: 80vh;
     -webkit-background-size: cover;
@@ -747,7 +829,6 @@ p {
      width: max-content;
      background-color:#EA29;
      border-radius: 0 20px 20px 0;
-     /*background-color:#E8C300;*/
      position: relative;
     top: -15px;  
 }
@@ -777,7 +858,8 @@ p {
 /*all pryaza*/
 
 /*==============================================================*/
-.section-hlopok {
+
+/*.section-hlopok {
   padding-top: 7px;
   padding-bottom: 0;
   position: relative;
@@ -795,7 +877,8 @@ p {
     font-size: 20px;
     padding-top: 7px;
     padding-bottom: 0;
-}
+}*/
+
 .absolute-top {
     /*position: absolute;*/
      position: fixed; 
@@ -805,6 +888,7 @@ p {
     z-index: 1030;
 }
 /*=======================================================*/
+/*
 .section-len_viskoza {
     padding-top: 7px;
     padding-bottom: 0;
@@ -820,14 +904,13 @@ p {
     font-weight: 700;
     text-align: center;
     letter-spacing: 4px;
-    /*letter-spacing: 6px;*/
     font-size: 20px;
-    /*font-size: 25px;*/
     padding-top: 7px;
     padding-bottom: 0;
-}
+}*/
+
 /*=================================================*/
-.section-pyx_norki {
+/*.section-pyx_norki {
     padding-top: 7px;
     padding-bottom: 0;
     position: relative;
@@ -846,14 +929,15 @@ p {
     font-size: 20px;
     padding-top: 7px;
     padding-bottom: 0;
-}
-.pyx_norki_padding {
+}*/
+
+/*.pyx_norki_padding {
   padding-bottom: 39px;
-}
+}*/
 
 
 /*=====================================================*/
-.section-smesovka {
+/*.section-smesovka {
   padding-top: 7px;
   padding-bottom: 0;
   position: relative;
@@ -871,7 +955,7 @@ p {
     font-size: 20px;
     padding-top: 7px;
     padding-bottom: 0;
-}
+}*/
 /*=================================================*/
   /*start section palitra*/
  .section-palitra {
@@ -902,18 +986,52 @@ p {
 /*end section palitra*/
 /*==================================================*/
 /*section 100% merinos*/
+/*.section-merinos {
+   padding-top: 7px;
+  padding-bottom: 0;
+  position: relative;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff !important;
+  overflow: hidden;
+}
+
+
 .title-merinos {
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
     letter-spacing: 2px;
     font-size: 20px;
-    padding-top: 7px;
+    padding-top: 11px;
+    padding-bottom: 0;
+}*/
+        /*общий section*/
+.section-all {
+   padding-top: 7px;
+  padding-bottom: 0;
+  position: relative;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff !important;
+  overflow: hidden;
+}
+       /*общий title*/
+.title-name {
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 20px;
+    padding-top: 11px;
     padding-bottom: 0;
 }
    /*MENU*/
 .section-name {
-    font-size: 20px;
+    font-size: 15px;
+    /*font-size: 20px;*/
     padding-left: 15px;
     font-weight: 700;
     letter-spacing: 4px;
@@ -958,6 +1076,17 @@ p {
 .form-info {
   line-height: 30px;
    
+}
+.row {
+text-align: left;
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+    /*justify-content: center;*/
+}
+.row:after {
+clear: both;
+content:"";
+display: table;
 }
     /*END CONTACT*/
 /*==========================================*/
@@ -1006,8 +1135,9 @@ p {
   .flex-md-row {
     flex-direction: column!important;
     position: relative;
-    top: 60px;
-    margin-bottom: 30px;
+    top: 35px;
+    /*top: 60px;*/
+    /*margin-bottom: 30px;*/
     /*top: 60px;*/
 }
   h5 {
