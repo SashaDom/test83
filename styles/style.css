@@ -931,9 +931,9 @@ p {
     padding-bottom: 0;
 }*/
 
-/*.pyx_norki_padding {
+.pyx_norki_padding {
   padding-bottom: 39px;
-}*/
+}
 
 
 /*=====================================================*/
@@ -1078,7 +1078,7 @@ p {
    
 }
 .row {
-text-align: left;
+/*text-align: left;*/
     /*display: flex;*/
     /*flex-wrap: wrap;*/
     /*justify-content: center;*/
