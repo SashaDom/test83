@@ -30,13 +30,15 @@ img {
   z-index: 9;
   position: relative;
 }
-/* h1 {
-    font-size: 40px;
-}*/
- /*h2 {
-    font-size: 30px;
-    font-weight: 600;
-}*/
+h2 {
+  font-size: 30px;
+    font-weight: 700;
+    font-family: "Banny", sans-serif;
+    position: relative;
+    text-transform: uppercase;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
 h5{
   letter-spacing: 1px;
   font-size: 30px;
@@ -719,7 +721,7 @@ p {
   .image-left:after {
     left: -42.5px;
   }
-.title-dark {
+/*.title-dark {
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
@@ -728,7 +730,7 @@ p {
     padding: 70px 0;
     padding-bottom: 0px;
     color: #fff;
-}
+}*/
 .title {
     font-size: 29px;
     font-weight: 700;
