@@ -351,6 +351,7 @@ display: table;
 }
 .image img {
   border-radius: 6px;
+  /*border-radius: 30px;*/
   border: 7px solid black;
   height: 500px;
 }
@@ -768,6 +769,7 @@ p {
  h2 {
     font-size: 18px;
     font-weight: 700;
+    margin: 0;
 }
 .section-first {
     height: 80vh;
@@ -1014,7 +1016,8 @@ p {
     font-weight: 700;
     text-align: center;
     letter-spacing: 2px;
-    font-size: 20px;
+    font-size: 17px;
+    /*font-size: 20px;*/
     padding-top: 11px;
     padding-bottom: 0;
 }
@@ -1066,6 +1069,17 @@ p {
 .form-info {
   line-height: 30px;
    
+}
+.first-social__item a {
+    transition: 0.2s all linear;
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 62px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin: 15px 4px;
 }
 
     /*END CONTACT*/
@@ -1153,7 +1167,7 @@ p {
   width: 24%;
   height: 100px;
   border:1px solid black;
-  border-radius: 10px
+  border-radius: 5px
 }
 
 .pl-5, .px-5 {
@@ -1220,13 +1234,14 @@ p {
 
 .time{
   padding: 0 40px;
+  font-size: 25px;
 }   
 .day{
-  font-size: 25px;
+  font-size: 18px;
     padding: 0;
 }   
 h4 {
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     font-size: 15px;
     margin-bottom: 3px;
     font-weight: 700;
@@ -1234,17 +1249,7 @@ h4 {
   } 
 
       /*begin contact*/
-.first-social__item a {
-    transition: 0.2s all linear;
-    display: block;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    text-align: center;
-    line-height: 62px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    margin: 15px 4px;
-}
+
     /*end contact*/
     /*=====================================================*/
     /*footer*/
