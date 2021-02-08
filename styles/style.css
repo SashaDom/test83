@@ -362,7 +362,7 @@ display: table;
   height: 330px;
   margin: 2px 0;
   border:6px solid black;
-  border-radius: 30px;
+  border-radius: 10px;
 }
 .img:hover{
    background: #E8C300;
@@ -466,6 +466,9 @@ display: table;
  font-size: 1.5rem;
     
 } 
+.font-size {
+    font-size: 23px;
+}
    /*КОНЕЦ ГРАФИК*/
    /*===================================================*/
      /*CONTACT BEGIN*/
