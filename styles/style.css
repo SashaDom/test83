@@ -36,8 +36,8 @@ h2 {
     font-family: "Banny", sans-serif;
     position: relative;
     text-transform: uppercase;
-    padding-bottom: 8px;
-    margin-bottom: 10px;
+    /*padding-bottom: 8px;*/
+    /*margin-bottom: 10px;*/
 }
 h5{
   letter-spacing: 1px;
@@ -789,6 +789,7 @@ p {
 .text-center {
     text-align: center!important;
     padding-bottom: 10px;
+    padding: 0 35px;
 }
   /*MENU*/
      /*удалил меню*/
@@ -1200,11 +1201,11 @@ p {
     margin-left: auto;
 }
 .slick-prev {
-    /*left: 0;*/
+    left: -12px;
         /*display: none !important;*/
 }
 .slick-next {
-    right: -20px;
+    right: -10px;
         /*display: none !important;*/
 }
 
