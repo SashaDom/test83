@@ -812,9 +812,14 @@ p {
 }
 .nav-link {
     display: contents;
+    font-size: 12px;
 }
+/*.nav-link {
+    font-size: 10px;
+}*/
 .nav-item{
-  padding: 2px 8px;
+  padding: 10px 8px;
+  /*padding: 2px 8px;*/
 }
 .link {
      padding: 0 5px; 
@@ -1073,7 +1078,8 @@ p {
     font-size: 16px;
 }
 .form-info {
-  line-height: 30px;
+  line-height: 50px;
+  /*line-height: 30px;*/
    
 }
 .first-social__item a {
@@ -1201,12 +1207,12 @@ p {
     margin-left: auto;
 }
 .slick-prev {
-    left: -12px;
-        /*display: none !important;*/
+    /*left: -12px;*/
+        display: none !important;
 }
 .slick-next {
-    right: -10px;
-        /*display: none !important;*/
+    /*right: -10px;*/
+        display: none !important;
 }
 
 
