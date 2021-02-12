@@ -1207,12 +1207,12 @@ p {
     margin-left: auto;
 }
 .slick-prev {
-    /*left: -12px;*/
-        display: none !important;
+    left: -12px;
+        /*display: none !important;*/
 }
 .slick-next {
-    /*right: -10px;*/
-        display: none !important;
+    right: -10px;
+        /*display: none !important;*/
 }
 
 
