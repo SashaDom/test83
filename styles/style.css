@@ -358,6 +358,8 @@ display: table;
   height: 500px;
 }
 .img {
+  /*max-width: 100%;*/
+  /*display: block;*/
   width: 274px;
   height: 330px;
   margin: 2px 0;
@@ -858,12 +860,17 @@ p {
   color: #E8C300;
 }
 .navbar-toggler {
-    padding-top: 15px;
+    /*padding-top: 15px;*/
     font-size: 1.25rem;
     line-height: 1;
     background-color: transparent;
     position: relative;
-    bottom: 17px;
+    bottom: 5px;
+    left: 10px;
+}
+dl, ol, ul {
+    margin-top: 5px;
+    /*margin-bottom: 1rem;*/
 }
 
 /*=========================================*/
@@ -954,6 +961,7 @@ p {
 }*/
 
 .pyx_norki_padding {
+  /*padding-bottom: 145px;*/
   padding-bottom: 39px;
 }
 
@@ -1219,18 +1227,19 @@ p {
 
 /*=======================================================*/
 .container {
-    width: 90%;
+    width: 80%;
+    /*width: 90%;*/
     padding-right: 8px;
     padding-left: 10px;
     margin-right: auto;
     margin-left: auto;
 }
 .slick-prev {
-    left: -12px;
+    left: -25px;
         /*display: none !important;*/
 }
 .slick-next {
-    right: -10px;
+    right: -25px;
         /*display: none !important;*/
 }
 
