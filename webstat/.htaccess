@@ -1,7 +1,0 @@
-AuthType Basic
-AuthName "/www/yarnboom.ua/webstat"
-AuthUserFile /var/www/pryazha2019/data/etc/18149680.passwd
-DirectoryIndex index.html
-<Limit GET POST>
-	require valid-user
-</Limit>
