@@ -47,14 +47,14 @@
 // ============================================================// =================================================
     
 // ============================================================
-			$('.grids').isotope({
-			  // options 
-			  itemSelector: '.grids-item',
-			  layoutMode: 'masonry'
-			});
+			// $('.grids').isotope({
+			  
+			//   itemSelector: '.grids-item',
+			//   layoutMode: 'masonry'
+			// });
 
-			$('.filter-button-group').on( 'click', 'button', function() {
-			  var filterValue = $(this).attr('data-filter');
-			  $('.grids').isotope({ filter: filterValue });
-			});
+			// $('.filter-button-group').on( 'click', 'button', function() {
+			//   var filterValue = $(this).attr('data-filter');
+			//   $('.grids').isotope({ filter: filterValue });
+			// });
 		});

@@ -1,8 +1,8 @@
 
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");*/
 @font-face {
   font-family: "Banny";
-  src: url("../src/fonts/Banny-BoldRound.ttf") format("truetype"), url("../src/fonts/Banny-BoldRound.eot") format("eot"), url("../src/fonts/Banny-BoldRound.woff") format("woff");
+  /*src: url("../src/fonts/Banny-BoldRound.ttf") format("truetype"), url("../src/fonts/Banny-BoldRound.eot") format("eot"), url("../src/fonts/Banny-BoldRound.woff") format("woff");*/
   font-style: normal;
   font-weight: 400;
 }
@@ -833,13 +833,13 @@ p {
 }
 .nav-link {
     display: contents;
-    font-size: 12px;
+    font-size: 15px;
 }
 /*.nav-link {
     font-size: 10px;
 }*/
 .nav-item{
-  padding: 7px 8px;
+  padding: 10px 8px;
   /*padding: 2px 8px;*/
 }
 .link {
@@ -995,7 +995,8 @@ dl, ol, ul {
 }
 .subtitle-palitra {
     letter-spacing: 1px;
-    font-size: 23px;
+    font-size: 19px;
+    /*font-size: 23px;*/
     margin-bottom: 15px;
     font-weight: 600;
     line-height: 15px;
@@ -1227,18 +1228,18 @@ p {
 }
 
 /*=======================================================*/
-.container-glavnaya {
+/*.container-glavnaya {
     width: 90%!important;
     padding-right: 0;
     padding-left: 0;
     margin-right: auto;
     margin-left: auto;
 }
-
+*/
 
 .container {
-    width: 81%;
-    /*width: 90%;*/
+    /*width: 81%;*/
+    width: 82%;
     /*width: 100%;*/
     /*padding-right: 8px;*/
     padding-right: 10px;
@@ -1247,8 +1248,18 @@ p {
     margin-right: auto;
     margin-left: auto;
 }
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 28px;
+    line-height: 1;
+    opacity: .75;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 .slick-prev {
-    left: -25px;
+    left: -35px;
+    /*left: -25px;*/
         /*display: none !important;*/
 }
 .slick-next {
