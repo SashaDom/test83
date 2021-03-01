@@ -961,8 +961,8 @@ dl, ol, ul {
 }*/
 
 .pyx_norki_padding {
-  /*padding-bottom: 145px;*/
-  padding-bottom: 39px;
+  /*padding-bottom: 90px;*/
+  /*padding-bottom: 39px;*/
 }
 
 
@@ -1041,7 +1041,7 @@ dl, ol, ul {
         /*общий section*/
 .section-all {
    padding-top: 7px;
-  padding-bottom: 0;
+  padding-bottom: 35px;
   position: relative;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
@@ -1220,7 +1220,8 @@ p {
 /*=========================================================*/
 
 .pb-3, .py-3 {
-    padding-bottom: 35px!important;
+    padding-bottom: 60px!important;
+    /*padding-bottom: 35px!important;*/
     /*padding-bottom: 30px!important;*/
 }
 .pt-3, .py-3 {
@@ -1272,6 +1273,7 @@ p {
 
 .slick-dots {
     position: absolute;
+     bottom: -64px;
     display: block;
     width: 100%;
     padding: 0;
@@ -1298,10 +1300,12 @@ p {
 
 .time{
   padding: 0 40px;
-  font-size: 25px;
+  font-size: 15px;
+  /*font-size: 25px;*/
 }   
 .day{
-  font-size: 18px;
+  font-size: 15px;
+  /*font-size: 18px;*/
     padding: 0;
 }   
 h4 {
