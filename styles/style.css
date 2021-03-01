@@ -461,11 +461,12 @@ display: table;
        /*ГРАФИК*/
  .time{
   padding: 0 21px;
-  font-size: 35px;
+  font-size: 50px;
+  /*font-size: 35px;*/
     
 }   
 .day{
- font-size: 1.5rem;
+ font-size: 2.0rem;
     
 } 
 .font-size {
