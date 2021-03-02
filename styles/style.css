@@ -1230,14 +1230,14 @@ p {
 }
 
 /*=======================================================*/
-/*.container-glavnaya {
+.container-glavnaya {
     width: 90%!important;
     padding-right: 0;
     padding-left: 0;
     margin-right: auto;
     margin-left: auto;
 }
-*/
+
 
 .container {
     /*width: 81%;*/
@@ -1301,12 +1301,13 @@ p {
 
 .time{
   padding: 0 40px;
-  font-size: 15px;
+  font-size: 19px;
+  /*font-size: 15px;*/
   /*font-size: 25px;*/
 }   
 .day{
-  font-size: 15px;
-  /*font-size: 18px;*/
+  /*font-size: 15px;*/
+  font-size: 18px;
     padding: 0;
 }   
 h4 {
