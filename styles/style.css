@@ -1,5 +1,5 @@
 
-/*@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
 @font-face {
   font-family: "Banny";
   /*src: url("../src/fonts/Banny-BoldRound.ttf") format("truetype"), url("../src/fonts/Banny-BoldRound.eot") format("eot"), url("../src/fonts/Banny-BoldRound.woff") format("woff");*/
@@ -95,6 +95,13 @@ h5{
   padding-bottom: 20px;
   background: #9F8671;
   color: #fff !important;
+}
+.container-palitra {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .subtitle-palitra{
   letter-spacing: 2px;
@@ -994,9 +1001,16 @@ dl, ol, ul {
     background: #9F8671;
     color: #fff !important;
 }
+.container-palitra {
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .subtitle-palitra {
     letter-spacing: 1px;
-    font-size: 19px;
+    font-size: 18px;
     /*font-size: 23px;*/
     margin-bottom: 15px;
     font-weight: 600;

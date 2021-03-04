@@ -1,2 +1,4 @@
 User-agent: *
 Crawl-delay: 10
+
+Sitemap: https://yarn-boom.pw/sitemap.xml
