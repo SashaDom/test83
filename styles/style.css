@@ -362,7 +362,8 @@ display: table;
   border-radius: 6px;
   /*border-radius: 30px;*/
   border: 7px solid black;
-  height: 500px;
+  /*height: 500px;*/
+  height: auto;
 }
 .img {
   /*max-width: 100%;*/
